@@ -30,15 +30,15 @@ Users should be able to:
 
 ### Screenshot
 
-![](./scr01.png)
-![](./scr02.png)
-![](./scr03.png)
-![](./scr04.png)
-![](./scr05.png)
+![](./screenshot//scr01.png)
+![](./screenshot//scr02.png)
+![](./screenshot//scr03.png)
+![](./screenshot//scr04.png)
+![](./screenshot//scr05.png)
 
 ### Links
 
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Live Site URL: [Add live site URL here](https://silver-brigadeiros-741327.netlify.app/)
 
 ## My process
 
